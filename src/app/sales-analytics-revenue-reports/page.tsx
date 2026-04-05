@@ -287,4 +287,4 @@ export default function SalesAnalytics() {
     ? ["beanCorner"]
     : ["shawarmaHouse", "beanCorner"]
 
-  const chartColors = ["#f97
+  const chartColors = location === "sha
